@@ -1,0 +1,1 @@
+{"name":"Oct-13","repository":"https://github.com/initialversion/oct-13-1476383381","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
